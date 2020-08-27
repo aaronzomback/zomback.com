@@ -1,0 +1,124 @@
+
+@font-face{
+font-family: "CrimsonText";
+font-weight: 400;
+src: url(/assets/fonts/CrimsonText-Regular.ttf);
+}
+
+
+$primary-color: #f70201;
+$text-on-light: #151620;
+$text-on-dark: #ffffff;
+$background-color: #F2F2F2;
+
+$main-spacing: 64px;
+/* the gutter */
+$gap-spacing: 40px;
+$header-height: 80px;
+$hero-spacing: 240px;
+$centered-width: 50%;
+$body-font: "CrimsonText";
+
+
+
+body {
+width: 100vw;
+height: 100vh;
+background-image: linear-gradient(to top, #d5d4d0 0%, #d5d4d0 1%, #eeeeec 31%, #efeeec 75%, #e9e9e7 100%);
+font-family: $body-font;
+}
+
+
+button.dropdown-btn {
+font-family: $body-font;
+}
+
+div.rat img {
+position: fixed;
+margin: 0px auto;
+top: 50%;
+transform: translate(202%, -50%);
+}
+
+header img {
+margin-top: 48px;
+margin-left: 177px;
+}
+
+.sidenav {
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 200px;
+left: 177px;
+overflow-x: hidden;
+padding-top: 20px;
+}
+
+.sidenav a, .dropdown-btn {
+margin-bottom: 16px;
+padding: 6px 8px 6px 16px;
+text-decoration: none;
+font-size: 20px;
+color: #000000;
+display: block;
+border: none;
+background: none;
+width:100%;
+text-align: left;
+cursor: pointer;
+outline: none;
+}
+
+div.films-container a {
+  font-size: 18px;
+  margin-left: 12px;
+}
+
+.fa-caret-down {
+margin-left: 8px;
+}
+
+.fa-caret-down.active {
+  transform: rotate(-90deg);
+}
+
+.dropdown-container {
+display: none;
+background-color: #262626;
+padding-left: 8px;
+}
+
+/* On mouse-over */
+.films-container a:hover {
+color: #2aa6f5;
+}
+
+.exmet img {
+position: fixed;
+left: 50%;
+transform: translate(-50%);
+top: 200px;
+
+&:hover{
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+}
+
+.sb img {
+position: fixed;
+left: 50%;
+top: 200px;
+transform: translate(-50%);
+
+&:hover{
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+}
+
+footer img {
+position: fixed;
+bottom: 24px;
+left: 50%;
+}
