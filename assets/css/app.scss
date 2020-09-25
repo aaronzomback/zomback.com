@@ -9,6 +9,19 @@ font-weight: 400;
 src: url(/assets/fonts/CrimsonText-Regular.ttf);
 }
 
+@font-face {
+  font-family: "NeueGrotesk";
+  src: url(/assets/fonts/FKGroteskNeueTrial-Regular.otf);
+}
+
+@font-face {
+  font-family: "Cormorant-Light";
+  font-weight: 300;
+  src: url(/assets/fonts/CormorantGaramond-Light.ttf);
+}
+
+
+
 $primary-color: #f70201;
 $text-on-light: #151620;
 $text-on-dark: #ffffff;
@@ -20,7 +33,7 @@ $gap-spacing: 40px;
 $header-height: 80px;
 $hero-spacing: 240px;
 $centered-width: 50%;
-$body-font: "CrimsonText";
+$body-font: "Cormorant-Light";
 
 
 body {
@@ -123,4 +136,28 @@ footer img {
 position: fixed;
 bottom: 24px;
 left: 50%;
+}
+
+button {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1.2px solid white;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 0px;
+  padding: 0px 40px;
+  transition: 0.3s;
+
+  &.button:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+
+  p {
+    color: white;
+    font-family: "Cormorant-Light";
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
 }
