@@ -33,6 +33,10 @@ $hero-spacing: 240px;
 $centered-width: 50%;
 $body-font: "Cormorant-Light";
 
+// @import "reset";
+@import "header";
+// @import "footer";
+
 
 body {
 width: 100vw;
