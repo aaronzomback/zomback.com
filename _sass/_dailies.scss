@@ -5,6 +5,11 @@ section.daily-posts {
   padding-right: 30px;
   transform: translateY(80px);
 
+  p {
+    line-height: 1.5;
+    font-size: 1.2rem;
+  }
+
   h2 {
     margin-bottom: 4px;
     display: inline-block;
