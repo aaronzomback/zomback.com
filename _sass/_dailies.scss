@@ -3,12 +3,15 @@ section.daily-posts {
   margin-left: 24rem;
   padding-left: 30px;
   padding-right: 30px;
+  transform: translateY(80px);
 
   h2 {
     margin-bottom: 4px;
+    display: inline-block;
   }
 
   h4 {
     margin-top: 2px;
+    display: inline-block;
   }
 }
