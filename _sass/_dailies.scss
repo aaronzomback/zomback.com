@@ -5,9 +5,15 @@ section.daily-posts {
   padding-right: 30px;
   transform: translateY(80px);
 
+  span {
+    font-size: 32px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+
   img {
     display: block;
-    width: 20%;
+    width: 90%;
   }
 
   p {
@@ -16,6 +22,8 @@ section.daily-posts {
   }
 
   h2 {
+    font-size: 32px;
+    margin-top: 16px;
     margin-bottom: 4px;
     display: inline-block;
   }
@@ -23,5 +31,9 @@ section.daily-posts {
   h4 {
     margin-top: 2px;
     display: inline-block;
+  }
+
+  div {
+    margin-bottom: 80px;
   }
 }
