@@ -10,8 +10,8 @@ collections:
     output: true
 email: aaronzomback@gmail.com
 description: a site dedicated to presenting the work and ideas of aaron zomback
-baseurl: 
-url: 
+baseurl:
+url:
 twitter_username: jekyllrb
 github_username: jekyll
 theme: jekyll-theme-minimal
