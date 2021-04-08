@@ -4,11 +4,14 @@ permalink: "/dailies/"
 layout: default
 ---
 
-{% for post in site.posts %}
-
 <section class="daily-posts">
-  <h2>{{ post.title }}</h2>
-  <p>{{ post.content }}</p>
-</section>
+  {% for post in site.posts %}
 
-{% endfor %}
+<div class="">
+  <h2>{{ post.title }}</h2>
+  <p>{{ page.date | date: "%-d %B %Y" }}</p>
+  <p>{{ post.content }}</p>
+</div>
+
+  {% endfor %}
+</section>
