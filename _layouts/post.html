@@ -8,8 +8,8 @@ layout: default
   {% for post in site.posts %}
 
 <div class="">
-  <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
   <h2>{{ post.title }}</h2>
+  <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
   <p>{{ post.content }}</p>
 </div>
 
