@@ -41,6 +41,10 @@ $body-font: "Cormorant-Light";
 @import "contact";
 @import "footer";
 
+div.fill {
+  height: 50vh;
+}
+
 
 body {
 width: 100vw;
