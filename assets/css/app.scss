@@ -45,6 +45,16 @@ div.fill {
   height: 50vh;
 }
 
+section.rat-logo {
+  display: flex;
+  justify-content: center;
+  margin-right: 16rem;
+  transform: translateY(35%);
+  img {
+    display: block;
+    width: 25%;
+  }
+}
 
 body {
 width: 100vw;
