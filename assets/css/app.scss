@@ -45,6 +45,31 @@ div.fill {
   height: 50vh;
 }
 
+section.film-posters {
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(50%);
+  width: 600px;
+  align-items: center;
+  vertical-align: middle;
+
+  div.expanded-metal {
+    width: 300px;
+    height: 600px;
+    background-image: url("/assets/img/expandedmetal.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  div.sovereign-blue {
+    width: 300px;
+    height: 600px;
+    background-image: url("/assets/img/sovereignblue.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
 section.rat-logo {
   display: flex;
   justify-content: center;
