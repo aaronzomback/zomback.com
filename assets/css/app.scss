@@ -90,9 +90,18 @@ section.index-landing {
   color: white;
   transform: rotateY(180deg);
 
+  h3 {
+    margin-bottom: 0;
+  }
+
   div.back-text {
+    width: 80%;
+    h4 {
+      margin-top: 8px;
+    }
     text-align: left;
     margin-left: 16px;
+    margin-right: 16px;
   }
 }
 
@@ -114,7 +123,7 @@ div.film-posters {
   }
 
   div.the-experience{
-    background-image: url("/assets/img/TheExperiencePoster.svg");
+    background-image: url("/assets/img/theexperienceposter.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
