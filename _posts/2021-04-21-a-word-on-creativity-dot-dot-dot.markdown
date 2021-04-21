@@ -3,7 +3,11 @@ title: A word on creativity...
 date: 2021-04-21 19:46:00 Z
 ---
 
-Everyone wants your attention. Trash. Bags of toxic and processed junk.
+Everyone wants your attention. 
+
+Trash and processed junk.
+
+Digital diabetes.
 
 Purify the mind and purify the spirit. 
 
