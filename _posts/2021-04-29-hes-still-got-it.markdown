@@ -1,6 +1,10 @@
 ---
 title: He's still got it
 date: 2021-04-29 18:52:00 Z
+categories:
+- Creativity
+- Art
+- Cinema
 tags:
 - DavidLynch
 - Art
