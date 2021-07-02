@@ -1,8 +1,8 @@
 section.daily-posts {
   max-width: 640px;
-  margin-left: 24rem;
-  padding-left: 30px;
-  padding-right: 30px;
+  margin-left: 6rem;
+  // padding-left: 30px;
+  // padding-right: 30px;
   transform: translateY(80px);
 
   span {
@@ -13,7 +13,7 @@ section.daily-posts {
 
   img {
     display: block;
-    width: 90%;
+    max-width: 90%;
   }
 
   p {

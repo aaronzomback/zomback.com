@@ -41,13 +41,19 @@ $body-font: "Cormorant-Light";
 @import "contact";
 @import "footer";
 
+div.main-flex {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
 div.fill {
   height: 50vh;
 }
 
 section.index-landing {
-  justify-content: center;
-  display: flex;
+  // justify-content: center;
+  // display: flex;
+  // transform: translateY(-150%);
 
 
   .flip-card {
