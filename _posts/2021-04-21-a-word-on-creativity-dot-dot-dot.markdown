@@ -9,7 +9,7 @@ Trash and processed junk.
 
 Digital diabetes.
 
-Purify the mind and purify the spirit. 
+Your world becomes what you consume.
 
 Watch only great films. 
 
