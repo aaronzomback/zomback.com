@@ -17,4 +17,4 @@ Il n'y a même pas de solitude dans les montagnes
 Mais des faces rouges et renfrognées qui ricanent et montrent les dents
 Au seuil de maisons en boue séchée*
 
-FR translation by Guy Le Gaufey
+> FR translation by Guy Le Gaufey
