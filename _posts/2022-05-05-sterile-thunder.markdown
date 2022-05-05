@@ -14,7 +14,7 @@ From doors of mudcracked houses <br>
 *Il n'y a même pas de silence dans les montagnes* <br>
 *Mais un tonnerre sec, stérile et sans pluie* <br>
 *Il n'y a même pas de solitude dans les montagnes* <br>
-*Mais des faces rouges et renfrognées qui ricanent et montrent les dents*<br>
-*Au seuil de maisons en boue séchée*
+*Mais des faces rouges et renfrognées qui ricanent et montrent les dents* <br>
+*Au seuil de maisons en boue séchée* <br>
 
 > FR translation by Guy Le Gaufey
