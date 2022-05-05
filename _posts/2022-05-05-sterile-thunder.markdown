@@ -11,10 +11,10 @@ From doors of mudcracked houses <br>
 
 > T.S. Eliot, The Wasteland (from *V. What the Thunder Said* )
 
-*Il n'y a même pas de silence dans les montagnes 
-Mais un tonnerre sec, stérile et sans pluie 
-Il n'y a même pas de solitude dans les montagnes
-Mais des faces rouges et renfrognées qui ricanent et montrent les dents 
-Au seuil de maisons en boue séchée*
+*Il n'y a même pas de silence dans les montagnes* <br>
+*Mais un tonnerre sec, stérile et sans pluie* <br>
+*Il n'y a même pas de solitude dans les montagnes* <br>
+*Mais des faces rouges et renfrognées qui ricanent et montrent les dents*<br>
+*Au seuil de maisons en boue séchée*
 
 > FR translation by Guy Le Gaufey
