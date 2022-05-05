@@ -3,7 +3,7 @@ title: Sterile Thunder
 date: 2022-05-05 18:38:00 Z
 ---
 
-There is not even silence in the mountains  
+There is not even silence in the mountains  <br>
 
 But dry sterile thunder without rain  
 
